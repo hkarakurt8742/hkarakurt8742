@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hkarakurt8742
 - 👀 I’m interested in Bioinformatics and Machine Learning Applications
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Go, Nextflow and AWS
+- 💞️ I’m looking to collaborate on Computational Biology
+- 📫 How to reach me: hamza_karakurt@windowslive.com
 
 <!---
 hkarakurt8742/hkarakurt8742 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
